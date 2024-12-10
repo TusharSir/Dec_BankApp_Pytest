@@ -1,0 +1,7 @@
+2024-12-10 22:44:20,092 : WARNING :_process_logs:  Problem reading geckodriver versions: error sending request for url (https://raw.githubusercontent.com/SeleniumHQ/selenium/trunk/common/geckodriver/geckodriver-support.json). Using latest geckodriver version
+2024-12-10 22:44:27,707 : INFO :test_bankapp_url_001:  Testcase test_bankapp_url_001 is started
+2024-12-10 22:44:27,707 : INFO :test_bankapp_url_001:  Opening the Bank Application URL-->https://apps.credence.in/ 
+2024-12-10 22:44:33,637 : INFO :test_bankapp_url_001:  Checking the Bank Application Title-->Bank Application
+2024-12-10 22:44:33,659 : INFO :test_bankapp_url_001:  Taking screenshot
+2024-12-10 22:44:33,909 : INFO :test_bankapp_url_001:  Testcase test_bankapp_url_001 is passed
+

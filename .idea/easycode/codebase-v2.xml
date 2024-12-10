@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/.pytest_cache/README.md;D:/Batch Notes/PythonAutomation/CT20/BankApp_Pytest/pageObjects/__init__.py;D:/Batch Notes/PythonAutomation/CT20/BankApp_Pytest/pageObjects/Login_Page.py;D:/Batch Notes/PythonAutomation/CT20/BankApp_Pytest/pageObjects/SignUp_Page.py;D:/Batch Notes/PythonAutomation/CT20/BankApp_Pytest/Report/assets/style.css;D:/Batch Notes/PythonAutomation/CT20/BankApp_Pytest/Report/my_report.html;D:/Batch Notes/PythonAutomation/CT20/BankApp_Pytest/testCases/__init__.py;D:/Batch Notes/PythonAutomation/CT20/BankApp_Pytest/testCases/conftest.py;D:/Batch Notes/PythonAutomation/CT20/BankApp_Pytest/testCases/test_user_profile_001.py;D:/Batch Notes/PythonAutomation/CT20/BankApp_Pytest/utilities/__init__.py;D:/Batch Notes/PythonAutomation/CT20/BankApp_Pytest/utilities/Logger.py;D:/Batch Notes/PythonAutomation/CT20/BankApp_Pytest/utilities/readConfig_utility.py" />
+  </component>
+</project>

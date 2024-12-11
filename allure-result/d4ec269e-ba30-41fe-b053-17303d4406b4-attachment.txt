@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_user_profile_001.py:48 Testcase test_bankapp_login_002 is started
+[32mINFO    [0m root:test_user_profile_001.py:49 Opening the Bank Application URL-->https://apps.credence.in/login.html 
+[32mINFO    [0m root:test_user_profile_001.py:54 Entering the Username

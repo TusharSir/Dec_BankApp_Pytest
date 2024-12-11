@@ -68,5 +68,5 @@ def bankapp_login(setup):
     log.info("Entering the Password")
     lp.EnterPassword(password)
     log.info("Clicking the Login Button")
-    additional_utilities_class.explicit_wait(driver, (By.XPATH, lp.click_login_button_xpath))
+    #additional_utilities_class.explicit_wait(driver, (By.XPATH, lp.click_login_button_xpath))
     lp.ClickLoginButton()

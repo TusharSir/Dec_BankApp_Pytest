@@ -11,3 +11,12 @@
 2024-12-10 22:51:43,234 : INFO :test_bankapp_url_001:  Taking screenshot
 2024-12-10 22:51:43,786 : INFO :test_bankapp_url_001:  Testcase test_bankapp_url_001 is passed
 
+2024-12-11 07:27:07,719 : INFO :test_bankapp_login_002:  Testcase test_bankapp_login_002 is started
+2024-12-11 07:27:07,719 : INFO :test_bankapp_login_002:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-11 07:27:09,780 : INFO :test_bankapp_url_001:  Testcase test_bankapp_url_001 is started
+2024-12-11 07:27:09,781 : INFO :test_bankapp_url_001:  Opening the Bank Application URL-->https://apps.credence.in/ 
+2024-12-11 07:28:11,185 : INFO :test_bankapp_login_002:  Entering the Username
+2024-12-11 07:28:13,047 : INFO :test_bankapp_url_001:  Checking the Bank Application Title-->apps.credence.in | 504: Gateway time-out
+2024-12-11 07:28:13,049 : INFO :test_bankapp_url_001:  Taking screenshot
+2024-12-11 07:28:13,103 : INFO :test_bankapp_url_001:  Testcase test_bankapp_url_001 is failed
+

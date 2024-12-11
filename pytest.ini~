@@ -1,0 +1,10 @@
+[pytest]
+marker =
+    sanity : this testcase is for sanity
+    regression : this testcase is for regression testing
+    performance : this testcase is for performance testing
+    security : this testcase is for security testing
+    group1: this testcase is for group1
+    userprofile: this testcase is for user
+    flaky: this testcase is for flaky
+    depedency: this testcase is for dependency

@@ -1,0 +1,5 @@
+[32mINFO    [0m root:test_user_profile_001.py:27 Testcase test_bankapp_url_001 is started
+[32mINFO    [0m root:test_user_profile_001.py:28 Opening the Bank Application URL-->https://apps.credence.in/ 
+[32mINFO    [0m root:test_user_profile_001.py:31 Checking the Bank Application Title-->apps.credence.in | 504: Gateway time-out
+[32mINFO    [0m root:test_user_profile_001.py:39 Taking screenshot
+[32mINFO    [0m root:test_user_profile_001.py:42 Testcase test_bankapp_url_001 is failed

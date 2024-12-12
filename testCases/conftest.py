@@ -70,3 +70,16 @@ def bankapp_login(setup):
     log.info("Clicking the Login Button")
     additional_utilities_class.explicit_wait(driver, (By.XPATH, lp.click_login_button_xpath))
     lp.ClickLoginButton()
+
+
+
+@pytest.fixture(params=[
+
+    ("Admin", "Pass"),
+    ("Tushar", "Pass"),
+    ("qwert12", "Fail"),
+    ("sheetal", "Pass")
+
+])
+def get_data_for_user_search(request):
+    return request.param

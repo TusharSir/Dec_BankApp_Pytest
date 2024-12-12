@@ -20,3 +20,591 @@
 2024-12-11 07:28:13,049 : INFO :test_bankapp_url_001:  Taking screenshot
 2024-12-11 07:28:13,103 : INFO :test_bankapp_url_001:  Testcase test_bankapp_url_001 is failed
 
+2024-12-12 07:36:54,525 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 07:36:55,682 : INFO :bankapp_login:  Entering the Username
+2024-12-12 07:36:56,069 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 07:36:57,423 : INFO :bankapp_login:  Entering the Password
+2024-12-12 07:36:57,505 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 07:36:57,642 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 07:36:57,924 : INFO :bankapp_login:  Entering the Username
+2024-12-12 07:36:57,980 : INFO :bankapp_login:  Entering the Password
+2024-12-12 07:36:58,024 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 07:36:59,498 : INFO :bankapp_login:  Entering the Username
+2024-12-12 07:36:59,598 : INFO :bankapp_login:  Entering the Password
+2024-12-12 07:36:59,718 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 07:38:16,214 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 07:38:16,236 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 07:38:16,368 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 07:38:18,680 : INFO :bankapp_login:  Entering the Username
+2024-12-12 07:38:18,731 : INFO :bankapp_login:  Entering the Password
+2024-12-12 07:38:18,766 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 07:38:18,809 : INFO :bankapp_login:  Entering the Username
+2024-12-12 07:38:18,849 : INFO :bankapp_login:  Entering the Username
+2024-12-12 07:38:18,880 : INFO :bankapp_login:  Entering the Password
+2024-12-12 07:38:18,924 : INFO :bankapp_login:  Entering the Password
+2024-12-12 07:38:18,933 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 07:38:18,989 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 07:44:48,264 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 07:44:48,319 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 07:44:48,320 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 07:44:50,736 : INFO :bankapp_login:  Entering the Username
+2024-12-12 07:44:50,804 : INFO :bankapp_login:  Entering the Password
+2024-12-12 07:44:50,874 : INFO :bankapp_login:  Entering the Username
+2024-12-12 07:44:50,878 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 07:44:50,913 : INFO :bankapp_login:  Entering the Username
+2024-12-12 07:44:50,972 : INFO :bankapp_login:  Entering the Password
+2024-12-12 07:44:51,005 : INFO :bankapp_login:  Entering the Password
+2024-12-12 07:44:51,039 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 07:44:51,073 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 07:45:24,371 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 07:45:24,987 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 07:45:26,314 : INFO :bankapp_login:  Entering the Username
+2024-12-12 07:45:26,404 : INFO :bankapp_login:  Entering the Password
+2024-12-12 07:45:26,415 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 07:45:27,025 : INFO :bankapp_login:  Entering the Username
+2024-12-12 07:45:27,101 : INFO :bankapp_login:  Entering the Password
+2024-12-12 07:45:27,125 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 07:48:41,454 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 07:48:42,082 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 07:48:42,474 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 07:48:44,085 : INFO :bankapp_login:  Entering the Username
+2024-12-12 07:48:44,199 : INFO :bankapp_login:  Entering the Password
+2024-12-12 07:48:44,213 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 07:48:44,591 : INFO :bankapp_login:  Entering the Username
+2024-12-12 07:48:44,679 : INFO :bankapp_login:  Entering the Password
+2024-12-12 07:48:44,691 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 07:48:44,761 : INFO :bankapp_login:  Entering the Username
+2024-12-12 07:48:44,854 : INFO :bankapp_login:  Entering the Password
+2024-12-12 07:48:44,884 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 07:49:43,420 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 07:49:44,023 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 07:49:45,419 : INFO :bankapp_login:  Entering the Username
+2024-12-12 07:49:45,499 : INFO :bankapp_login:  Entering the Password
+2024-12-12 07:49:45,513 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 07:49:45,672 : INFO :bankapp_login:  Entering the Username
+2024-12-12 07:49:45,809 : INFO :bankapp_login:  Entering the Password
+2024-12-12 07:49:45,823 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 07:50:23,121 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 07:50:25,020 : INFO :bankapp_login:  Entering the Username
+2024-12-12 07:50:25,101 : INFO :bankapp_login:  Entering the Password
+2024-12-12 07:50:25,120 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 07:52:04,639 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 07:52:07,251 : INFO :bankapp_login:  Entering the Username
+2024-12-12 07:52:07,314 : INFO :bankapp_login:  Entering the Password
+2024-12-12 07:52:07,333 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 07:52:28,294 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 07:52:30,158 : INFO :bankapp_login:  Entering the Username
+2024-12-12 07:52:30,226 : INFO :bankapp_login:  Entering the Password
+2024-12-12 07:52:30,248 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 07:55:08,293 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 07:55:10,758 : INFO :bankapp_login:  Entering the Username
+2024-12-12 07:55:10,826 : INFO :bankapp_login:  Entering the Password
+2024-12-12 07:55:10,840 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 07:58:47,332 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 07:58:49,948 : INFO :bankapp_login:  Entering the Username
+2024-12-12 07:58:50,017 : INFO :bankapp_login:  Entering the Password
+2024-12-12 07:58:50,033 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:00:40,294 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:00:42,895 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:00:42,964 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:00:42,976 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:06:00,742 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:06:03,308 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:06:03,398 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:06:03,409 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:07:49,802 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:07:52,301 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:07:52,369 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:07:52,384 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:08:49,322 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:08:51,210 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:08:51,271 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:08:51,288 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:11:13,903 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:11:13,903 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:11:18,197 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:11:18,197 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:11:18,320 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:11:18,320 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:11:18,351 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:11:18,351 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:12:37,931 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:12:37,931 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:12:44,395 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:12:44,395 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:12:44,554 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:12:44,554 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:12:44,595 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:12:44,595 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:13:31,355 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:13:31,355 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:13:35,226 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:13:35,226 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:13:35,410 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:13:35,410 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:13:35,439 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:13:35,439 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:14:28,208 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:14:28,208 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:14:29,182 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:14:29,182 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:14:52,368 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:14:52,368 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:14:56,404 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:14:56,404 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:14:56,549 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:14:56,549 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:14:56,599 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:14:56,599 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:24:42,754 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:24:42,754 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:24:43,673 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:24:43,673 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:24:45,095 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:24:45,095 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:24:46,307 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:24:46,307 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:24:48,222 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:24:48,222 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:24:49,129 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:24:49,129 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:24:49,211 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:24:49,211 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:24:49,348 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:24:49,348 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:24:49,798 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:24:49,798 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:24:49,826 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:24:49,826 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:24:49,886 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:24:49,886 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:24:50,163 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:24:50,163 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:24:50,226 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:24:50,226 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:24:50,676 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:24:50,676 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:24:51,018 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:24:51,018 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:24:51,054 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:24:51,054 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:27:24,164 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:27:24,164 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:27:25,775 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:27:25,775 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:27:27,417 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:27:27,417 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:27:28,364 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:27:28,364 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:27:28,884 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:27:28,884 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:27:29,148 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:27:29,148 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:27:29,226 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:27:29,226 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:27:30,153 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:27:30,153 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:27:30,479 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:27:30,479 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:27:30,512 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:27:30,512 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:27:33,861 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:27:33,861 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:27:34,220 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:27:34,220 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:27:34,286 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:27:34,286 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:27:36,744 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:27:36,744 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:27:37,342 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:27:37,342 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:27:37,392 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:27:37,392 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:27:55,049 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:27:55,049 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:27:58,543 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:27:58,543 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:27:58,687 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:27:58,687 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:27:58,731 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:27:58,731 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:30:59,444 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:30:59,444 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:31:01,334 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:31:01,334 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:31:03,148 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:31:03,148 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:31:03,904 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:31:03,904 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:31:04,076 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:31:04,076 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:31:04,370 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:31:04,370 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:31:04,427 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:31:04,427 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:31:07,381 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:31:07,381 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:31:07,911 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:31:07,911 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:31:07,954 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:31:07,954 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:31:08,034 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:31:08,034 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:31:08,474 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:31:08,474 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:31:08,608 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:31:08,608 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:31:08,636 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:31:08,636 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:31:09,055 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:31:09,055 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:31:09,207 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:31:09,207 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:31:28,540 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:31:28,540 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:31:34,024 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:31:34,024 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:31:34,186 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:31:34,186 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:31:34,223 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:31:34,223 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:36:09,929 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:36:09,929 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:36:11,644 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:36:11,644 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:36:13,133 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:36:13,133 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:36:14,389 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:36:14,389 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:36:14,888 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:36:14,888 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:36:15,441 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:36:15,441 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:36:15,487 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:36:15,487 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:36:16,529 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:36:16,529 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:36:16,839 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:36:16,839 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:36:17,013 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:36:17,013 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:36:17,166 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:36:17,166 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:36:17,206 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:36:17,206 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:36:17,435 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:36:17,435 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:36:17,471 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:36:17,471 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:36:17,494 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:36:17,494 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:36:17,558 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:36:17,558 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:36:36,852 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:36:36,852 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:36:41,722 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:36:41,722 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:36:41,850 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:36:41,850 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:36:41,903 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:36:41,903 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:37:43,156 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:37:43,156 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:37:43,444 : WARNING :_process_logs:  Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-12-12 08:37:43,444 : WARNING :_process_logs:  Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-12-12 08:37:43,445 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:37:43,445 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:37:43,535 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:37:43,535 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:37:45,008 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:37:45,008 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:37:45,997 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:37:45,997 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:37:46,035 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:37:46,035 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:37:46,139 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:37:46,139 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:37:46,403 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:37:46,403 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:37:46,518 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:37:46,518 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:37:46,576 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:37:46,576 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:37:46,605 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:37:46,605 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:37:46,682 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:37:46,682 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:37:46,755 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:37:46,755 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:37:47,954 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:37:47,954 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:37:48,265 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:37:48,265 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:37:48,487 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:37:48,487 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:38:04,054 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:38:04,054 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:38:06,025 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:38:06,025 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:38:06,205 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:38:06,205 : INFO :bankapp_login:  Entering the Password
+2024-12-12 08:38:06,374 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:38:06,374 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 08:58:41,472 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:58:41,472 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:58:41,481 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:58:41,481 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:58:41,482 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:58:41,482 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:58:41,848 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:58:41,848 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:58:42,356 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:58:42,356 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:58:43,080 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:58:43,080 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:58:43,617 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:58:43,617 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:58:48,144 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:58:48,144 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:58:49,189 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:58:49,189 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:58:49,918 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:58:49,918 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 08:58:50,725 : INFO :bankapp_login:  Entering the Username
+2024-12-12 08:58:50,725 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:01:49,463 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:01:49,463 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:01:49,959 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:01:49,959 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:01:49,959 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:01:49,959 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:01:49,959 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:01:49,959 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:01:51,235 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:01:51,235 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:01:51,294 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:01:51,294 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:01:51,506 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:01:51,506 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:01:52,620 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:01:52,620 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:01:52,936 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:01:52,936 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:01:53,143 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:01:53,143 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:01:53,257 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:01:53,257 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:01:53,282 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:01:53,282 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:01:53,383 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:01:53,383 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:01:53,460 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:01:53,460 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:01:53,468 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:01:53,468 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:01:53,592 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:01:53,592 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:02:03,692 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:02:03,692 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:02:03,964 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:02:03,964 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:02:05,266 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:02:05,266 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:02:08,038 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:02:08,038 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:02:08,215 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:02:08,215 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:02:09,099 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:02:09,099 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:02:09,324 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:02:09,324 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:02:09,476 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:02:09,476 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:02:39,010 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:02:39,010 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:02:42,211 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:02:42,211 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:02:42,397 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:02:42,397 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:02:42,563 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:02:42,563 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:03:40,798 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:03:40,798 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:03:55,503 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:03:55,503 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:03:55,691 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:03:55,691 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:03:55,813 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:03:55,813 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:04:56,121 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:04:56,121 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:05:03,865 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:05:03,865 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:05:04,069 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:05:04,069 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:05:04,208 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:05:04,208 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:07:25,973 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:07:25,973 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:07:29,518 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:07:29,518 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:07:29,681 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:07:29,681 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:07:29,818 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:07:29,818 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:08:53,386 : INFO :test_bankapp_login_002:  Testcase test_bankapp_login_002 is started
+2024-12-12 09:08:53,386 : INFO :test_bankapp_login_002:  Testcase test_bankapp_login_002 is started
+2024-12-12 09:08:53,387 : INFO :test_bankapp_login_002:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:08:53,387 : INFO :test_bankapp_login_002:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:09:01,163 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:09:01,163 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:09:01,500 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:09:01,500 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:09:01,653 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:09:01,653 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:09:02,169 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:09:02,169 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:09:02,172 : INFO :test_bankapp_url_001:  Testcase test_bankapp_url_001 is started
+2024-12-12 09:09:02,172 : INFO :test_bankapp_url_001:  Testcase test_bankapp_url_001 is started
+2024-12-12 09:09:02,173 : INFO :test_bankapp_url_001:  Opening the Bank Application URL-->https://apps.credence.in/ 
+2024-12-12 09:09:02,173 : INFO :test_bankapp_url_001:  Opening the Bank Application URL-->https://apps.credence.in/ 
+2024-12-12 09:09:03,271 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:09:03,271 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:09:05,576 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:09:05,576 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:09:06,336 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:09:06,336 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:09:06,445 : INFO :test_bankapp_url_001:  Checking the Bank Application Title-->Bank Application
+2024-12-12 09:09:06,445 : INFO :test_bankapp_url_001:  Checking the Bank Application Title-->Bank Application
+2024-12-12 09:09:06,659 : INFO :test_bankapp_url_001:  Taking screenshot
+2024-12-12 09:09:06,659 : INFO :test_bankapp_url_001:  Taking screenshot
+2024-12-12 09:09:06,961 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:09:06,961 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:09:07,097 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:09:07,097 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:09:07,172 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:09:07,172 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:09:07,230 : INFO :test_bankapp_url_001:  Testcase test_bankapp_url_001 is passed
+
+2024-12-12 09:09:07,230 : INFO :test_bankapp_url_001:  Testcase test_bankapp_url_001 is passed
+
+2024-12-12 09:09:07,366 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:09:07,366 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:09:07,570 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:09:07,570 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:09:07,633 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:09:07,633 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:09:07,693 : INFO :test_bankapp_login_002:  Entering the Username
+2024-12-12 09:09:07,693 : INFO :test_bankapp_login_002:  Entering the Username
+2024-12-12 09:09:07,892 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:09:07,892 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:09:07,915 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:09:07,915 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:09:07,949 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:09:07,949 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:09:08,021 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:09:08,021 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:09:08,109 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:09:08,109 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:09:08,131 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:09:08,131 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:09:08,171 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:09:08,171 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:09:08,316 : INFO :test_bankapp_login_002:  Entering the Password
+2024-12-12 09:09:08,316 : INFO :test_bankapp_login_002:  Entering the Password
+2024-12-12 09:09:10,550 : INFO :test_bankapp_login_002:  Clicking the Login Button
+2024-12-12 09:09:10,550 : INFO :test_bankapp_login_002:  Clicking the Login Button
+2024-12-12 09:09:15,527 : INFO :test_bankapp_login_002:  Verify Page Title
+2024-12-12 09:09:15,527 : INFO :test_bankapp_login_002:  Verify Page Title
+2024-12-12 09:09:15,539 : INFO :test_bankapp_login_002:  Testcase test_bankapp_login_002 is Pass
+2024-12-12 09:09:15,539 : INFO :test_bankapp_login_002:  Testcase test_bankapp_login_002 is Pass
+2024-12-12 09:09:15,540 : INFO :test_bankapp_login_002:  Taking the screenshot
+2024-12-12 09:09:15,540 : INFO :test_bankapp_login_002:  Taking the screenshot
+2024-12-12 09:09:16,248 : INFO :test_bankapp_login_002:  Testcase test_bankapp_login_002 is Passed
+2024-12-12 09:09:16,248 : INFO :test_bankapp_login_002:  Testcase test_bankapp_login_002 is Passed
+2024-12-12 09:09:19,920 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:09:19,920 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:09:29,383 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:09:29,383 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:09:29,556 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:09:29,556 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:09:29,683 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:09:29,683 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:10:40,105 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:10:40,105 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:10:40,535 : INFO :test_bankapp_url_001:  Testcase test_bankapp_url_001 is started
+2024-12-12 09:10:40,535 : INFO :test_bankapp_url_001:  Testcase test_bankapp_url_001 is started
+2024-12-12 09:10:40,536 : INFO :test_bankapp_url_001:  Opening the Bank Application URL-->https://apps.credence.in/ 
+2024-12-12 09:10:40,536 : INFO :test_bankapp_url_001:  Opening the Bank Application URL-->https://apps.credence.in/ 
+2024-12-12 09:10:40,958 : INFO :test_bankapp_login_002:  Testcase test_bankapp_login_002 is started
+2024-12-12 09:10:40,958 : INFO :test_bankapp_login_002:  Testcase test_bankapp_login_002 is started
+2024-12-12 09:10:40,959 : INFO :test_bankapp_login_002:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:10:40,959 : INFO :test_bankapp_login_002:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:10:41,401 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:10:41,401 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:10:41,438 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:10:41,438 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:10:41,447 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:10:41,447 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:10:41,975 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:10:41,975 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:10:46,090 : INFO :test_bankapp_login_002:  Entering the Username
+2024-12-12 09:10:46,090 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:10:46,090 : INFO :test_bankapp_login_002:  Entering the Username
+2024-12-12 09:10:46,090 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:10:46,094 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:10:46,094 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:10:47,485 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:10:47,485 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:10:47,928 : INFO :test_bankapp_url_001:  Checking the Bank Application Title-->Bank Application
+2024-12-12 09:10:47,928 : INFO :test_bankapp_url_001:  Checking the Bank Application Title-->Bank Application
+2024-12-12 09:10:47,976 : INFO :test_bankapp_url_001:  Taking screenshot
+2024-12-12 09:10:47,976 : INFO :test_bankapp_url_001:  Taking screenshot
+2024-12-12 09:10:48,537 : INFO :test_bankapp_url_001:  Testcase test_bankapp_url_001 is passed
+
+2024-12-12 09:10:48,537 : INFO :test_bankapp_url_001:  Testcase test_bankapp_url_001 is passed
+
+2024-12-12 09:10:49,038 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:10:49,038 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:10:49,095 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:10:49,095 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:10:49,230 : INFO :test_bankapp_login_002:  Entering the Password
+2024-12-12 09:10:49,230 : INFO :test_bankapp_login_002:  Entering the Password
+2024-12-12 09:10:49,523 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:10:49,523 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:10:50,204 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:10:50,204 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:10:50,206 : INFO :test_bankapp_login_002:  Clicking the Login Button
+2024-12-12 09:10:50,206 : INFO :test_bankapp_login_002:  Clicking the Login Button
+2024-12-12 09:10:53,221 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:10:53,221 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:10:53,875 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:10:53,875 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:10:55,086 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:10:55,086 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:10:56,970 : INFO :test_bankapp_login_002:  Verify Page Title
+2024-12-12 09:10:56,970 : INFO :test_bankapp_login_002:  Verify Page Title
+2024-12-12 09:10:57,177 : INFO :test_bankapp_login_002:  Testcase test_bankapp_login_002 is Pass
+2024-12-12 09:10:57,177 : INFO :test_bankapp_login_002:  Testcase test_bankapp_login_002 is Pass
+2024-12-12 09:10:57,178 : INFO :test_bankapp_login_002:  Taking the screenshot
+2024-12-12 09:10:57,178 : INFO :test_bankapp_login_002:  Taking the screenshot
+2024-12-12 09:10:57,201 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:10:57,201 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:10:57,433 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:10:57,433 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:10:57,591 : INFO :test_bankapp_login_002:  Testcase test_bankapp_login_002 is Passed
+2024-12-12 09:10:57,591 : INFO :test_bankapp_login_002:  Testcase test_bankapp_login_002 is Passed
+2024-12-12 09:10:57,952 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:10:57,952 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:10:58,638 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:10:58,638 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:10:58,642 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:10:58,642 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:11:01,060 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:11:01,060 : INFO :bankapp_login:  Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-12 09:11:03,059 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:11:03,059 : INFO :bankapp_login:  Entering the Username
+2024-12-12 09:11:03,377 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:11:03,377 : INFO :bankapp_login:  Entering the Password
+2024-12-12 09:11:03,533 : INFO :bankapp_login:  Clicking the Login Button
+2024-12-12 09:11:03,533 : INFO :bankapp_login:  Clicking the Login Button

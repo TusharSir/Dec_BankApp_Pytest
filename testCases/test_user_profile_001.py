@@ -42,6 +42,7 @@ class Test_Login01:
             self.log.info("Taking screenshot")
            # self.driver.save_screenshot(".\\Screenshots\\test_bankapp_url_001_pass.png")
             additional_utilities_class.take_screenshot(self.driver, "test_bankapp_url_001", "Pass")
+            time.sleep(3)
             allure.attach.file(".\\Screnshots\\test_bankapp_url_001_pass.png", attachment_type=allure.attachment_type.PNG)
 
             self.log.info("Testcase test_bankapp_url_001 is passed\n")

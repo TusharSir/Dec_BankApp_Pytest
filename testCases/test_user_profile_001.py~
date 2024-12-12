@@ -56,7 +56,7 @@ class Test_Login01:
 
     @pytest.mark.sanity
     @pytest.mark.userprofile
-    @pytest.mark.xfail
+    #@pytest.mark.xfail
     @pytest.mark.depedency(depends=["test_bankapp_url_001"])
     def test_bankapp_login_002(self):
         self.log.info("Testcase test_bankapp_login_002 is started")

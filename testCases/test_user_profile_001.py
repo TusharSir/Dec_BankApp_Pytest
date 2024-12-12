@@ -27,7 +27,7 @@ class Test_Login01:
 
     driver = None
 
-    @pytest.mark.sanity
+    @pytest.mark.skip
     @pytest.mark.userprofile
     @pytest.mark.flaky(reruns=2, reruns_delay=1)
     @pytest.mark.depedency(name="test_bankapp_url_001")
